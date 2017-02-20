@@ -1,0 +1,4 @@
+# Python 2.7 compatibility
+# tweepy==3.5.0
+# pandas==0.19.1
+# cPickle==1.71
