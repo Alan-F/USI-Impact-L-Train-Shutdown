@@ -1,3 +1,7 @@
+## Introduction
+From Twitter Data to Home & Work Location.
+
+
 ## Descriptive Data
 ```python
 hour4home = range(22,24,1) + range(0,3,1) + range(6,9,1)
