@@ -1,4 +1,4 @@
-## L Train User Destinations Based on Twitter Data
+# L Train User Destinations Based on Twitter Data
 Start Date: Feb, 2017 
 
 <img src="https://4d0850cecf2c5ce919d5-17b283ac00835b5ced4db83c898330a1.ssl.cf1.rackcdn.com/11491463_l-train-shutdown-study-calls-for-subsidized_td75b3ed1.jpg" width="500">
@@ -26,7 +26,7 @@ The methodology for this project consisted of first creating a matrix of **“ho
 
 ## Data
 
-* **LEHD Origin-Destination Employment Statistics (LODES) from United States Census Bureau - for New York City, 2014. **
+* **LEHD Origin-Destination Employment Statistics (LODES) from United States Census Bureau - for New York City, 2014.**
   * Data files are state-based and organized into three types: Origin-Destination (OD), Residence Area Characteristics (RAC), and Workplace Area Characteristics (WAC), all at census block geographic detail.
 * **Geo-coded Twitter data from CUSP Data Facility - for New York City, November 2014 - February 2015.**
   * The Twitter data was not continuous and limited to geo-tagged tweets.
@@ -41,5 +41,5 @@ The methodology for this project consisted of first creating a matrix of **“ho
 
 
 
-photos by [*media.nbcnewyork.com*](http://media.nbcnewyork.com/images/620*349/WNBC_000000011416379_1200x675_680457283902.jpg), [*notey.com*](https://4d0850cecf2c5ce919d5-17b283ac00835b5ced4db83c898330a1.ssl.cf1.rackcdn.com/11491463_l-train-shutdown-study-calls-for-subsidized_td75b3ed1.jpg) and [*The New York Times*](https://www.nytimes.com/2016/07/26/nyregion/l-train-will-shut-down-between-manhattan-and-brooklyn-in-2019-for-18-months.html?_r=0)
+##### photos by [*media.nbcnewyork.com*](http://media.nbcnewyork.com/images/620*349/WNBC_000000011416379_1200x675_680457283902.jpg), [*notey.com*](https://4d0850cecf2c5ce919d5-17b283ac00835b5ced4db83c898330a1.ssl.cf1.rackcdn.com/11491463_l-train-shutdown-study-calls-for-subsidized_td75b3ed1.jpg) and [*The New York Times*](https://www.nytimes.com/2016/07/26/nyregion/l-train-will-shut-down-between-manhattan-and-brooklyn-in-2019-for-18-months.html?_r=0)
 
